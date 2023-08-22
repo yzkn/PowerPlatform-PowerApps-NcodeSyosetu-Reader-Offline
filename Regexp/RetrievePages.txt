@@ -1,0 +1,1 @@
+<dl class="novel_sublist2">[^<]?<dd class="subtitle">[^<]?<a href="\/(?<ncode>[0-9a-zA-Z]+)\/(?<page>[0-9]+)\/">(?<title>[^<]+)<\/a>[^<]?<\/dd>[^<]?<dt class="long_update">[^<]?(?<date>[0-9\/]+) (?<time>[0-9:]+)(<span title="(?<udate>[0-9\/]+) (?<utime>[0-9:]+) 改稿">（<u>改<\/u>）<\/span>)?<\/dt>[^<]?<\/dl>
